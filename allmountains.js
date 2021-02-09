@@ -1,3 +1,4 @@
 const allMountains = [
-    "Perisher"
+    "Perisher",
+    "FallsCreek"
   ]
