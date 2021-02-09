@@ -1,0 +1,2 @@
+# newMountainTemplate
+other mountains
