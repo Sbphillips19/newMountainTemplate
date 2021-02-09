@@ -1,9 +1,9 @@
 {
-    "ABasin": {
-    "country": "Japan"
-    "pass": "epic"
-      "latitude": 39.6425,
-        "longitude": -105.8719,
-          "name": "Arapahoe Basin"
+    "Perisher": {
+    "country": "Australia"
+    "pass":
+      "latitude": -36.4059,
+        "longitude": 148.4117,
+          "name": "Perisher"
     },
 }
